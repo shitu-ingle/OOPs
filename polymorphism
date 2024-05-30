@@ -1,1 +1,29 @@
 
+POLYMORPHISM :
+Poly means “Many” and morph means “Forms”;
+The ability to acquire multiple forms is called Polymorphism.
+Real-life example of polymorphism:
+The real-life example of polymorphism can be “Umbrella” which can be used in rainy season to
+protect us from rain and it can be also used in summer season to protect us from the heat
+waves of sun.
+Polymorphism are of two types :
+1. Compile-time Polymorphism
+2. Run-time Polymorphism
+
+COMPILE TIME POLYMORPHISM :
+Compile-time Polymorphism are of three types:
+1. Function Overloading: When there are various functions with the same name but different
+arguments in the same class then it is known as the function overloading.
+2. Constructor Overloading: When there are various constructor with the same name but
+different arguments then it is called as constructor overloading.
+3. Operator Overloading: When a single operator can perform multiple operations, then it is
+called operator overloading
+
+RUN TIME POLYMORPHISM :
+Run-time Polymorphism includes function overriding:
+Function Overriding:
+When there are two functions with the same name and same arguments but present in
+different classes, one is present in parent class and other one is redefined in a child class, so this
+process of redefining is called Function Overriding.
+
+---------------***********************************************************-----------------
